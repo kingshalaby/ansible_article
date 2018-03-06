@@ -10,5 +10,3 @@
     - include: users.yml
     - include: cron.yml
     - include: packages.yml
-    - include: files.yml
-

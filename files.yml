@@ -1,2 +1,0 @@
-- name: create ansible log file
-  file: path=/var/log/ansible.log state=touch owner=ansible mode=0644
